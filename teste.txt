@@ -1,2 +1,4 @@
 estou começando a entender como funciona isso.
 O corinthians perdeu!
+estamos em fase de teste
+git checkout -b change
